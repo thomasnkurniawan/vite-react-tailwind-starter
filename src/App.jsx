@@ -1,9 +1,8 @@
-import './App.css'
-import Home from './pages/Home'
+import "./App.css";
+import ComponentDump from "./pages/ComponentDump";
 
 function App() {
-  return <Home />
-
+  return <ComponentDump />;
 }
 
-export default App
+export default App;
